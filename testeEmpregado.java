@@ -9,7 +9,7 @@ public class TesteEmpregado{
          e3.setTipo(3);
          e1.setSalario(2000);
          e2.setSalario(1500);
-         e2.setSalario(0.5);
+         e2.setComissao(0.5);
          e3.setSalario(1500);
          e3.setBonus(700);
         List <Empregado> empregados = Arrays.asList(e1, e2, e3);
