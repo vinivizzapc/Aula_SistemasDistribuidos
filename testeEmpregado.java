@@ -1,8 +1,8 @@
 public class TesteEmpregado{
      public static void main(String[] args){
-         empregado e1 = new empregado();
-         empregado e2 = new empregado();    
-         empregado e3 = new empregado();
+         Empregado e1 = new empregado();
+         Empregado e2 = new empregado();    
+         Empregado e3 = new empregado();
          e1.setTipo(1);
          e2.setTipo(2);
          e3.setTipo(3);
