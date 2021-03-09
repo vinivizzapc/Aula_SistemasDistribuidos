@@ -1,4 +1,4 @@
-public class empregado {
+public class Empregado {
     private int tipo;
     private double salario;
     private double comissao;
